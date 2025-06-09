@@ -42,22 +42,12 @@ Adapter 1: Internal Network (to communicate with OPNsense).
    - Boot the OPNSense VM with the OPNSense ISO image.
    - Follow the installation prompts to complete the OPNSense setup. (In case OPNSense fails to reboot, refer to troubleshooting steps below.)
    - Using command to decompress the .bz2 file (on MAC) using the teminal:
-     <img width="300" alt="Terminal" src="https://github.com/user-attachments/assets/821bdd04-75df-4b61-9df7-3c3bfd50400e" />
-     
+
 
 ### 5. Install Wireshark on Ubuntu
    - Install Wireshark in Ubuntu by running:
      sudo apt update (to update the software)
      sudo apt install wireshark (to install the software)
-     
-     <img width="450" alt="Installation of Wireshark within Ubuntu" src="https://github.com/user-attachments/assets/124a67b7-34ec-498e-aa12-46d0dd4c63ac" />
-   - Run Wireshark to start capturing network traffic on the configured interfaces.
-
-   - Desktop Environment:
-
-  <img width="600" alt="Desktop" src="https://github.com/user-attachments/assets/53a305f4-cf74-4c8d-a586-5bc83d078012" />
-
-
 
 ## Troubleshooting Steps
 
