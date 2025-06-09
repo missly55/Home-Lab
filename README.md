@@ -37,12 +37,6 @@ Adapter 1: Internal Network (to communicate with OPNsense).
 
 - OPNsense and Ubuntu can communicate over the Internal Network while the OPNsense VM has internet access through the NAT adapter.
 
-<img width="500" alt="Ubuntu Network Configuration" src="https://github.com/user-attachments/assets/aada855b-7920-4aa3-b01c-b6d69fce17f2" />
-
-<img width="500" alt="OPNSense Network Configuration" src="https://github.com/user-attachments/assets/09b85b9b-be47-42ee-9ef2-fa694aa3c120" />
-
-<img width="500" alt="OPNSense Network Configuration" src="https://github.com/user-attachments/assets/320c9f36-5968-47ec-be7d-19b9536f1635" />
-
 
 ### 4. Install OPNSense on VirtualBox
    - Boot the OPNSense VM with the OPNSense ISO image.
